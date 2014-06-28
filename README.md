@@ -9,4 +9,4 @@ codepathWeek3
   - If you're dragging up, releasing the headline should animate the headline to the up position
   - If you're dragging the headline up past the top, the friction should increase
 - Walkthrough Animation
-![gif](walkthrough.gif)
+  - ![gif](walkthrough.gif)
